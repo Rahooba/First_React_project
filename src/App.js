@@ -3,9 +3,7 @@
 function App() {
   return (
    <>
-   <h1>
-    Hello from APP
-   </h1>
+   <h1 style={{color:"red"}}>  Hello from APP</h1>
    <h2>rahooba</h2>
    
   
