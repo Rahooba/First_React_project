@@ -4,7 +4,7 @@ function Home() {
   return (
     <>
     <header className="hide-when-mobile">
-    <h1>Courses 4 Arab</h1>
+    <h1>Courses </h1>
     <ul className="flex">
       <li className="main-list">
         <a className="main-link" href="#">
@@ -136,7 +136,7 @@ function Home() {
     Home Page
   </main>
   <footer>
-    Designed and developed by Courses4Arab.com
+    Designed and developed by Rahooba
     <span>🧡</span>
   </footer>
 </>
